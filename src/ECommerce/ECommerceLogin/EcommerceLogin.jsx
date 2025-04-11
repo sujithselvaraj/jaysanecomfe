@@ -50,6 +50,7 @@ const ECommerceLogin = () => {
         required
       />
       <button className="ecom-login-button" type="submit">Login</button>
+      <p>Not an user. Click here to Signup!</p>
     </form>
   </div>
   );

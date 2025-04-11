@@ -59,6 +59,7 @@ const ECommerceRegister = () => {
           required
         />
         <button className="ecom-register-button" type="submit">Sign Up</button>
+        <p>Already an user. Click here to Login!</p>
       </form>
     </div>
   );

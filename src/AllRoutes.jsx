@@ -12,6 +12,12 @@ const AllRoutes = () => {
                 <Route path='/com-login' element={<ECommerceLogin/>}/>
                 <Route path='/' element={<ECommerceHome/>}/>
                 <Route path='/com-register' element={<ECommerceRegister/>}/>
+
+
+
+
+
+                
             </Routes>
         </BrowserRouter>
     </div>
